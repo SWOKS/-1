@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PhisicsCatalog</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Справочник по физике</string>
+    <string name="nav_header_subtitle">основные формулы 7-9 классов</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_how_it_work">Как пользоваться</string>
+    <string name="action_about">О разработчике</string>
+
+    <string name="menu_mechanica">Механика</string>
+    <string name="menu_eletrodinamic">Электродинамика</string>
+    <string name="menu_optic">Оптика</string>
+
+    <string name="formula_dialog">S=t*v (пример)</string>
+    <string name="description_dialog">Тут будет отображаться описание</string>
+</resources>

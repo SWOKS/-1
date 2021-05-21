@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <datanode>
+        <question>В каком разделе находится этот тест</question>
+        <answer1>Механика</answer1>
+        <answer2>Электродинамика</answer2>
+        <answer3>Оптика</answer3>
+        <answer4>Ядерная физика</answer4>
+        <correct>3</correct>
+    </datanode>
+    <datanode>
+        <question>Что упало на голову Ньютону</question>
+        <answer1>Яблоко</answer1>
+        <answer2>Апельсин</answer2>
+        <answer3>Банан</answer3>
+        <answer4>Ананас</answer4>
+        <correct>2</correct>
+    </datanode>
+
+    <datanode>
+        <question>Тестовый вопрос 3 для проверки функционала работы</question>
+        <answer1>111</answer1>
+        <answer2>222</answer2>
+        <answer3>333</answer3>
+        <answer4>444</answer4>
+        <correct>2</correct>
+    </datanode>
+    <datanode>
+        <question>Тестовый вопрос 4 для проверки функционала работы</question>
+        <answer1>111</answer1>
+        <answer2>222</answer2>
+        <answer3>333</answer3>
+        <answer4>444</answer4>
+        <correct>2</correct>
+    </datanode>
+
+
+
+</data>
